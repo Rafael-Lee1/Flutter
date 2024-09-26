@@ -4,4 +4,4 @@ Resolva problemas na organização de eventos, como comunicação e gestão de p
 =======
 # Flutter Chat App
  
->>>>>>> d8efcee (Initial commit)
+
